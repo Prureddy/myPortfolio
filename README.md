@@ -5,7 +5,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## Live Demo
 
-A live demo of the portfolio website can be found at (https://prureddy.github.io/myPortfolio/)
+A live demo of the portfolio website can be found at [DEMO LINK](https://prureddy.github.io/myPortfolio/)
 
 ## Features
 
@@ -20,7 +20,8 @@ The portfolio website is built using the following technologies:
 
 - **HTML**: Markup language for structuring the web pages.
 - **CSS**: Styling language to enhance the website's appearance.
-- **JavaScript**: Programming language for interactive and dynamic elements.
+- **JavaScript**: Programming language for interactive and dynamic elements.\
+- SCSS also used
 - **[Additional technologies or frameworks]**: node js for mail sending.
 
 ## Installation
