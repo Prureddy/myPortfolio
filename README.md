@@ -47,4 +47,4 @@ Contributions to the portfolio website are welcome! If you find any bugs, have s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-Feel free to customize this template according to your specific needs and add or remove sections as necessary.
+Feel free to customize this template according to your specific needs and add or remove sections as necessary
