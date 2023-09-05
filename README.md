@@ -21,7 +21,7 @@ The portfolio website is built using the following technologies:
 - **CSS**: Styling language to enhance the website's appearance.
 - **JavaScript**: Programming language for interactive and dynamic elements.\
 - SCSS also used
-- **[Additional technologies or frameworks]**: node js for mail sending.
+- Additional : node js for mail sending.
 
 ## Installation
 
